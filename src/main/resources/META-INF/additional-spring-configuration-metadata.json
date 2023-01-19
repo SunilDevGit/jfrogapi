@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "access.token",
+    "type": "java.lang.String",
+    "description": "A description for 'access.token'"
+  },
+  {
+    "name": "user.encrypted.password",
+    "type": "java.lang.String",
+    "description": "A description for 'user.encrypted.password'"
+  }
+]}
